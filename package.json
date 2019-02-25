@@ -1,0 +1,10 @@
+{
+    "name": "Face_Recognition",
+    "version": "0.1.0",
+    "dependencies": {
+        "face-api": "~0.9.4",
+        "face-api.js": "^0.18.0"
+    },
+    "author": "MihoubAhmed <mihoubahmed@live.fr>",
+    "description": "face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js"
+}
